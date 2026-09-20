@@ -4,6 +4,8 @@
 
 A high-performance Windows download manager with a sleek Liquid Glass dark UI and multi-threaded segmented downloads (2–16 parallel connection threads).
 
+<a href="https://github.com/GouthamSER/F2L-Downloader-PC/releases/download/F2L-Downloader-Pc/F2LDownloader_Setup.exe">CliCk Me To Download :) </a>
+
 ---
 
 ## Features
